@@ -1,5 +1,9 @@
 ctransformers
-sentence-transformers
+sentence_transformers>=2.6.0
 pinecone-client
-langchian
+langchain
 flask
+pypdf
+transformers
+torch
+langchain_huggingface
