@@ -7,3 +7,5 @@ pypdf
 transformers
 torch
 langchain_huggingface
+python-dotenv
+-e .
